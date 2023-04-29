@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <GLFW/glfw3.h>
+
+int main(int argc, const char** argv) {
+	GLFWwindow* window;
+
+	if(!glfwInit()) {
+		printf("couldn't init GLFW\n")
+		return 1;
+	}
+	return 0;
+}

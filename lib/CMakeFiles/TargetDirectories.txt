@@ -1,0 +1,11 @@
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/CMakeFiles/Project.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/CMakeFiles/INSTALL.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/CMakeFiles/ALL_BUILD.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/CMakeFiles/ZERO_CHECK.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/glfw/CMakeFiles/uninstall.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/glfw/CMakeFiles/INSTALL.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/glfw/src/CMakeFiles/glfw.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/porte/OneDrive/Desktop/Subtitilizer/Project/lib/lib/FFmpeg/CMakeFiles/INSTALL.dir

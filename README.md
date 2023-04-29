@@ -1,1 +1,2 @@
-# Subtitlizer
+Project Application in C++
+============================= =
